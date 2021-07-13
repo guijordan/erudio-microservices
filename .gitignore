@@ -23,6 +23,7 @@ target/
 /bin/
 blog/bin/
 **/.tern-project
+.metadata/
 
 #IntelliJ files
 **/*.iml
